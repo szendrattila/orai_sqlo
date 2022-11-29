@@ -1,0 +1,2 @@
+# orai_sqlo
+adw
